@@ -1,0 +1,6 @@
+categorycode:
+  property:
+    - name: ISOCOUNTRYCODE
+      type: STATIC
+    - name: TEST
+      type: STATIC
